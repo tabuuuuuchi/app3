@@ -16,11 +16,11 @@
 
 ## 4. セットアップ手順
 ### リポジトリのクローン
-git clone https://github.com/tabuuuuuchi/RevenueForecastApp.git
+git clone https://github.com/tabuuuuuchi/RevenueForecastApp.git<br>
 cd RevenueForecastApp
 
 ### 仮想環境の作成
-python3 -m venv venv
+python3 -m venv venv<br>
 source venv/bin/activate
 
 ### サーバーの起動
