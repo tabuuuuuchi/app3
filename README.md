@@ -10,3 +10,18 @@
 - Streamlit 1.51.0
 - Jupyter Notebook 7.5.6
 
+## 3. 主な機能
+- 広告宣伝費の入力(サイドバー)
+- 予想収益のシミュレーション
+
+## 4. セットアップ手順
+### リポジトリのクローン
+git clone https://github.com/tabuuuuuchi/RevenueForecastApp.git
+cd RevenueForecastApp
+
+### 仮想環境の作成
+python3 -m venv venv
+source venv/bin/activate
+
+### サーバーの起動
+streamlit run revenue_forecast.py
